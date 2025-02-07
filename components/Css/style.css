@@ -164,17 +164,16 @@
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    gap: 25px;
+    gap: 20px;
     padding-top: 70px;
 }
 .smart__apple{
     display: flex;
     justify-content: space-between;
-    /* gap: 5px; */
     padding: 35px;
     background: #F6F6F6;
     border-radius: 22px;
-    width: 270px;
+    width: 354px;
 }
 .smart__apple-h2{
     font-family: monospace;
@@ -197,6 +196,7 @@
     padding: 35px;
     background: #F6F6F6;
     border-radius: 22px;
+    width: 354px;
 }
 .smart__xiaomi-h2{
     font-family: monospace;
@@ -216,6 +216,7 @@
     padding: 35px;
     background: #F6F6F6;
     border-radius: 22px;
+    width: 354px;
 }
 .smart__fitbit-h2{
     font-family: monospace;
